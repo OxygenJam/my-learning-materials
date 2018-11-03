@@ -5,10 +5,15 @@
 
 ### Algorithms
 > Various computer science and magical wing wongs, from sorting to pathfinding algorithms
-1. **Game Dev Algo**
+1. **Game Dev Algos**
     * **[A* Algorithm / A Pathfinding Algorithm](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)** - In itself is self-explanatory.
     * **[Perlin Noise / A Procedural Generation Algorithm](https://www.redblobgames.com/articles/noise/introduction.html)** - Probably the best algorithm and easiest one I can understand in procedural generation; procedural generation is the random generation of content in a game like the terrains in Minecraft and most rouge-like games.
 
+---
+### Programming
+> Various programming languages, frameworks, and libraries that are really useful
+1. **Game Dev**
+    * **[OpenGL / WebGL](http://nehe.gamedev.net/)** by NeHe - Good, concise, and also highly recommended by a lot of people.
 ---
 ### Linguistics
 > Ever since the Tower of Babel, life has been made difficult to communicate with other people.
