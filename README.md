@@ -15,6 +15,11 @@
 1. **Game Dev**
     * **[OpenGL / WebGL](http://nehe.gamedev.net/)** by NeHe - Good, concise, and also highly recommended by a lot of people.
 ---
+### Web Dev
+> Web development techniques, tips, and learning materials I reserve just in case...
+1. **CSS**
+    * **[Media Screens for mobile devices](http://javascriptkit.com/dhtmltutors/cssmediaqueries2.shtml)** by javascriptkit - A concise guide for the different screen resolutions of various devices, also includes a template.
+---
 ### Linguistics
 > Ever since the Tower of Babel, life has been made difficult to communicate with other people.
 > Here can be some useful resources for learning a new language! No, not a programming language.
