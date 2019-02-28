@@ -19,6 +19,7 @@
 > Web development techniques, tips, and learning materials I reserve just in case...
 1. **CSS**
     * **[Media Screens for mobile devices](http://javascriptkit.com/dhtmltutors/cssmediaqueries2.shtml)** by javascriptkit - A concise guide for the different screen resolutions of various devices, also includes a template.
+    * **[Is your table overflowing the container?](https://www.456bereastreet.com/archive/200704/how_to_prevent_html_tables_from_becoming_too_wide/)** by 456 bereastreet - A workaround to those pesky table overflowing the container element.
 ---
 ### Linguistics
 > Ever since the Tower of Babel, life has been made difficult to communicate with other people.
